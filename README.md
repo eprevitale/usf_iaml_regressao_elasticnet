@@ -1,8 +1,7 @@
 # Algoritmo de Regressão Elastic Net
 
----
-
 Prática Profissional: Inteligência Artificial e Aprendizagem de Máquina
+
 _Por Eduardo Silva, Lucas Ransato e Nathan Borges_
 
 ## Introdução
